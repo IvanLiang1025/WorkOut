@@ -1,0 +1,49 @@
+
+{
+    "homeData": {
+        "articleList":[{
+            "id": 1,
+            "articleTitle": "How to Hit a Triple Bodyweight Deadlift",
+            "articleDescription": "Build Strength, Don't Test It One of the most common mistakes novice lifters make is testing their 1RM (one-rep max) and working at near-max percentages too often. Your tissues and nervous system can't constantly handle high intensities.",
+            "imgUrl": "https://www.t-nation.com/system/publishing/articles/10003974/original/The-Best-Damn-Workout-Plan-For-Natural-Lifters.png?1475008008"
+        },{
+            "id": 2,
+            "articleTitle": "How to Hit a Triple Bodyweight Deadlift",
+            "articleDescription": "Build Strength, Don't Test It One of the most common mistakes novice lifters make is testing their 1RM (one-rep max) and working at near-max percentages too often. Your tissues and nervous system can't constantly handle high intensities.",
+            "imgUrl": "https://www.t-nation.com/system/publishing/articles/10003974/original/The-Best-Damn-Workout-Plan-For-Natural-Lifters.png?1475008008"
+        }],
+        "recommendList": [{
+            "id": 1,
+            "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-club-aa8bdf19f8cf729a759da42e4a96f366.png",
+            "title": "Meet Up"
+        },{
+            "id": 2,
+            "imgUrl": "https://www.t-nation.com/system/publishing/articles/10003974/original/The-Best-Damn-Workout-Plan-For-Natural-Lifters.png?1475008008",
+            "title": "Practice Together"
+        },{
+            "id":3,
+            "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-5-4ba25cf5041931a0ed2062828b4064cb.png",
+            "title": "Plan Maker"
+        },{
+            "id": 4,
+            "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-6-c4d6335bfd688f2ca1115b42b04c28a7.png",
+            "title": "Diet"
+        }],
+        "writerList": [
+            {
+                "id": 1,
+                "name": "Ivan Liang",
+                "imgUrl": "https://upload.jianshu.io/users/upload_avatars/4790772/388e473c-fe2f-40e0-9301-e357ae8f1b41.jpeg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp"
+    
+            },{
+                "id": 2,
+                "name": "Huan Su",
+                "imgUrl": "https://upload.jianshu.io/users/upload_avatars/4790772/388e473c-fe2f-40e0-9301-e357ae8f1b41.jpeg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp"
+               
+            }
+        ]
+    }
+}
+
+
+
